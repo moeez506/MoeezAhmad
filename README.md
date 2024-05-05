@@ -1,12 +1,12 @@
-# 💫 About Me:
+### About Me
 👋 Hi, I’m Moeez Ahmad<br>🔍 Enthusiastic learner and adept problem solver passionate about tackling challenging issues to make a meaningful impact.<br>🌱 I’m currently learning to learn. Also, I am learning more Algorithms, System Design, and Backend Engineering.<br>👯 I’m looking to collaborate on great projects more on the Backend Engineering.<br>📫 How to reach me moeezahmed506@gmail.com
 
 
-## 🌐 Socials:
+### Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moeez.ahmad.01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeezahmad01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MoeezAhmad_) 
 
 
-# 📊 GitHub Stats:
+### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=moeez506&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeez506&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
